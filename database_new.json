@@ -230,7 +230,7 @@
   },
   "database": 2,
   "source": "github",
-  "mono": "0",
-  "telegram": "0",
+  "mono": "10",
+  "telegram": "1",
   "update_time": "15 Грудня о 11:20"
 }
