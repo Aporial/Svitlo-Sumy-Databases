@@ -173,7 +173,7 @@
     "two_1": "08:00-10:00",
     "two_2": "20:00-22:00"
   },
-  "database": 1,
+  "database": 2,
   "source": "github",
   "mono": "10",
   "telegram": "1",
