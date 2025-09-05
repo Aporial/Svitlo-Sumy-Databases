@@ -109,7 +109,7 @@
     },
     "database": 2,
     "source": "github",
-    "mono": "1",
+    "mono": "0",
     "telegram": "1",
     "ad": "native",
     "update_time": "5 вересня о 06:00"
