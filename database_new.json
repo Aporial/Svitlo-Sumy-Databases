@@ -222,5 +222,7 @@
   "mono": "0",
   "telegram": "1",
   "ad": "native",
+  "ad_android": "banner",
+  "ad_ios": "banner",
   "update_time": "12 листопада о 21:35"
 }
