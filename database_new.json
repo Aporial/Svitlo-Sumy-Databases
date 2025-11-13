@@ -223,8 +223,8 @@
   "source": "github",
   "mono": "9",
   "telegram": "1",
+  "ad": "native",
   "ad_android": "native",
   "ad_ios": "banner",
-  "ad": "native",
   "update_time": "13 листопада о 18:54"
 }
