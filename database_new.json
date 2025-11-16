@@ -212,7 +212,7 @@
   },
   "database": 2,
   "source": "github",
-  "mono": "10",
+  "mono": "0",
   "telegram": "1",
   "ad": "native",
   "ad_android": "native",
