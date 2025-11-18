@@ -168,12 +168,13 @@
   },
   "database": 2,
   "source": "github",
-  "mono": "10",
+  "mono": "11",
   "telegram": "1",
   "ad": "native",
   "ad_android": "native",
   "ad_ios": "banner",
   "update_time": "29 жовтня о 14:05"
 }
+
 
 
