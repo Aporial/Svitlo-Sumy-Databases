@@ -246,7 +246,7 @@
   "mono": "34",
   "telegram": "2",
   "ad": "native",
-  "ad_android": "native",
+  "ad_android": "banner",
   "ad_ios": "banner",
   "update_time": "3 лютого о 18:44"
 }
