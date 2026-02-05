@@ -245,8 +245,8 @@
   "source": "github",
   "mono": "34",
   "telegram": "2",
-  "ad": "banner",
-  "ad_android": "banner",
-  "ad_ios": "banner",
+  "ad": "native",
+  "ad_android": "native",
+  "ad_ios": "native",
   "update_time": "4 лютого о 19:35"
 }
