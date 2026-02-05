@@ -247,6 +247,6 @@
   "telegram": "2",
   "ad": "native",
   "ad_android": "native",
-  "ad_ios": "native",
+  "ad_ios": "banner",
   "update_time": "4 лютого о 19:35"
 }
