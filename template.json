@@ -165,11 +165,12 @@
   "source": "github",
   "mono": "34",
   "telegram": "2",
-  "ad": "banner",
-  "ad_android": "banner",
-  "ad_ios": "banner",
+  "ad": "native",
+  "ad_android": "native",
+  "ad_ios": "native",
   "update_time": "29 жовтня о 14:05"
 }
+
 
 
 
