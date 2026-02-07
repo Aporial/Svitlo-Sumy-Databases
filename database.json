@@ -189,10 +189,10 @@
   },
   "database": 2,
   "source": "github",
-  "mono": "34",
+  "mono": "35",
   "telegram": "2",
-  "ad": "native",
-  "ad_android": "native",
+  "ad": "banner",
+  "ad_android": "banner",
   "ad_ios": "banner",
   "update_time": "6 лютого о 19:20"
 }
