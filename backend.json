@@ -1,4 +1,3 @@
 {
-  "backend": "server",
-  "outages": "server"
+  "backend": "server"
 }
