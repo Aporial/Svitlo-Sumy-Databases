@@ -1,4 +1,4 @@
 {
-  "ad_android": "banner",
-  "ad_ios": "banner"
+  "ad_android": "native",
+  "ad_ios": "native"
 }
